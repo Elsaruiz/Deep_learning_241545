@@ -1,0 +1,4 @@
+data/processed/sql-llama-instruct-v0.5.jsonl filter=lfs diff=lfs merge=lfs -text
+results/expbs4_lr0.0001/model.safetensors filter=lfs diff=lfs merge=lfs -text
+t5-sql-model/model.safetensors filter=lfs diff=lfs merge=lfs -text
+results/exp_bs4_lr0.0001/model.safetensors filter=lfs diff=lfs merge=lfs -text
